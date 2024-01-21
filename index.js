@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
     const ApiURL = "https://api.github.com/users/";
-    const accessToken = "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";
+    const accessToken = "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";
     const perPage = 10;
     let currentPage = 1;
     let username;
